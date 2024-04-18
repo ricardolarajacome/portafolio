@@ -1,6 +1,6 @@
 Welcome to Ricardo's Portfolio!
 
-About Me
+About Me:
 
 Hi there! I'm Ricardo, a budding data scientist with a passion for turning raw data into meaningful insights. With a background in philosophy and a current focus on studying SQL, Python, and statistics, I bring a unique perspective to the world of data analysis.
 
