@@ -1,33 +1,15 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Welcome to Ricardo's Portfolio!
 
+## About Me
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+### Hi there! I'm Ricardo, a budding data scientist with a passion for turning raw data into meaningful insights. With a background in philosophy and a current focus on studying SQL, Python, and statistics, I bring a unique perspective to the world of data analysis.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## What You'll Find Here
 
-(* = Not included)
+### In this portfolio, you'll find a collection of my projects showcasing my skills in data manipulation, visualization, and analysis. From predictive modeling to exploratory data analysis, each project reflects my dedication to mastering the tools and techniques of the trade.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+## Get in Touch
 
-AJ
-aj@lkn.io | @ajlkn
+### I'm always eager to connect with fellow data enthusiasts, collaborate on projects, or just chat about all things data-related. Feel free to reach out to me via email at [Your Email Address] or connect with me on [LinkedIn/Twitter/Other Social Media].
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### Let's explore the world of data together!
