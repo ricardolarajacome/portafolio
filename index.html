@@ -11,10 +11,17 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-XpgOfXXQxFh2QGMm05JzD7oP1Bv+K9Dj61WHQWHKqwZopORg4/aDzxc4pFRbygKoYyW8hn3tZRuc79XunGZhWg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 		
         <style>
-            .actions li:last-child a {
-                margin-right: 10px; /* Ajusta el valor según tu preferencia */
-            }
-        </style>
+  .actions {
+    display: flex;
+    justify-content: space-between;
+    list-style: none; /* Quitamos los puntos de la lista */
+    padding: 0; /* Quitamos el padding predeterminado */
+  }
+
+  .actions li:last-child {
+    margin-left: auto; /* Empuja el último elemento (botón derecho) hacia la derecha */
+  }
+</style>
 	</head>
 	<body class="is-preload">
 
@@ -42,8 +49,8 @@
 
         <p>Proficient in SQL, Python, Power BI, and Tableau, I excel in data analysis, visualization, and predictive modeling. With a proven track record in startups, fintechs, and established companies like OptioPay Group, Chime, and AT&T, I deliver tangible results through data-driven decision-making. Fluent in English, French, and Spanish, I facilitate seamless communication across diverse teams. Passionate about continuous learning, I stay updated with the latest advancements in data analytics. Let's connect and explore how we can harness the power of data together.</p>
     <ul class="actions">
-        <li><a href="https://www.linkedin.com/in/ricardo-lara-jacome/" class="button">Learn More</a> </li>
-        <li><a href="https://github.com/ricardolarajacome/portafolio/raw/main/images/ricardo_lara_jacome-data_analyst_resume.pdf" class="button" download>Download My Resume</a> </li>
+        <li class="left-button"><a href="https://www.linkedin.com/in/ricardo-lara-jacome/" class="button">Learn More</a> </li>
+        <li class="right-button">><a href="https://github.com/ricardolarajacome/portafolio/raw/main/images/ricardo_lara_jacome-data_analyst_resume.pdf" class="button" download>Download My Resume</a> </li>
     </ul>
 </section>
 
