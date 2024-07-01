@@ -10,6 +10,6 @@ In this portfolio, you'll find a collection of my projects showcasing my skills 
 
 Get in Touch
 
-I'm always eager to connect with fellow data enthusiasts, collaborate on projects, or just chat about all things data-related. Feel free to reach out to me via email at [Your Email Address] or connect with me on [LinkedIn/Twitter/Other Social Media].
+I'm always eager to connect with fellow data enthusiasts, collaborate on projects, or just chat about all things data-related. Feel free to reach out to me via email at rjacome21@icloud.com or connect with me on https://www.linkedin.com/in/ricardo-lara-jacome/ .
 
 Let's explore the world of data together!
